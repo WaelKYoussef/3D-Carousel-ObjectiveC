@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<Carousel>
+
+    <Card title="Card 1" backgroundColor="bd2721">
+        <Tab title="Subcard 1" backgroundColor="f3b66a"/>
+        <Tab title="Subcard 2" backgroundColor="f3b66a"/>
+        <Tab title="Subcard 3" backgroundColor="f3b66a"/>
+        <Tab title="Subcard 4" backgroundColor="f3b66a"/>
+        <Tab title="Subcard 5" backgroundColor="f3b66a"/>
+        <Tab title="Subcard 6" backgroundColor="f3b66a"/>
+        <Tab title="Subcard 7" backgroundColor="f3b66a"/>
+    </Card>
+    
+
+    <Card title="Card 2" backgroundColor="f3b66a">
+        <Tab title="Subcard 1" backgroundColor="4349e3"/>
+        <Tab title="Subcard 2" backgroundColor="4349e3"/>
+        <Tab title="Subcard 3" backgroundColor="4349e3"/>
+        <Tab title="Subcard 4" backgroundColor="4349e3"/>
+        <Tab title="Subcard 5" backgroundColor="4349e3"/>
+        <Tab title="Subcard 6" backgroundColor="4349e3"/>
+        <Tab title="Subcard 7" backgroundColor="4349e3"/>
+    </Card>
+    
+
+    <Card title="Card 3" backgroundColor="4349e3">
+        <Tab title="Subcard 1" backgroundColor="67c96c"/>
+        <Tab title="Subcard 2" backgroundColor="67c96c"/>
+        <Tab title="Subcard 3" backgroundColor="67c96c"/>
+        <Tab title="Subcard 4" backgroundColor="67c96c"/>
+        <Tab title="Subcard 5" backgroundColor="67c96c"/>
+        <Tab title="Subcard 6" backgroundColor="67c96c"/>
+        <Tab title="Subcard 7" backgroundColor="67c96c"/>
+    </Card>
+    
+
+    <Card title="Card 4" backgroundColor="67c96c">
+        <Tab title="Subcard 1" backgroundColor="cd32fb"/>
+        <Tab title="Subcard 2" backgroundColor="cd32fb"/>
+        <Tab title="Subcard 3" backgroundColor="cd32fb"/>
+        <Tab title="Subcard 4" backgroundColor="cd32fb"/>
+        <Tab title="Subcard 5" backgroundColor="cd32fb"/>
+        <Tab title="Subcard 6" backgroundColor="cd32fb"/>
+        <Tab title="Subcard 7" backgroundColor="cd32fb"/>
+    </Card>
+    
+    <Card title="Card 5" backgroundColor="bd2721">
+        <Tab title="Subcard 1" backgroundColor="f3b66a"/>
+        <Tab title="Subcard 2" backgroundColor="f3b66a"/>
+        <Tab title="Subcard 3" backgroundColor="f3b66a"/>
+        <Tab title="Subcard 4" backgroundColor="f3b66a"/>
+        <Tab title="Subcard 5" backgroundColor="f3b66a"/>
+        <Tab title="Subcard 6" backgroundColor="f3b66a"/>
+        <Tab title="Subcard 7" backgroundColor="f3b66a"/>
+    </Card>
+    
+
+    <Card title="Card 6" backgroundColor="f3b66a">
+        <Tab title="Subcard 1" backgroundColor="4349e3"/>
+        <Tab title="Subcard 2" backgroundColor="4349e3"/>
+        <Tab title="Subcard 3" backgroundColor="4349e3"/>
+        <Tab title="Subcard 4" backgroundColor="4349e3"/>
+        <Tab title="Subcard 5" backgroundColor="4349e3"/>
+        <Tab title="Subcard 6" backgroundColor="4349e3"/>
+        <Tab title="Subcard 7" backgroundColor="4349e3"/>
+    </Card>
+    
+
+    <Card title="Card 7" backgroundColor="4349e3">
+        <Tab title="Subcard 1" backgroundColor="67c96c"/>
+        <Tab title="Subcard 2" backgroundColor="67c96c"/>
+        <Tab title="Subcard 3" backgroundColor="67c96c"/>
+        <Tab title="Subcard 4" backgroundColor="67c96c"/>
+        <Tab title="Subcard 5" backgroundColor="67c96c"/>
+        <Tab title="Subcard 6" backgroundColor="67c96c"/>
+        <Tab title="Subcard 7" backgroundColor="67c96c"/>
+    </Card>
+    
+
+    <Card title="Card 8" backgroundColor="67c96c">
+        <Tab title="Subcard 1" backgroundColor="cd32fb"/>
+        <Tab title="Subcard 2" backgroundColor="cd32fb"/>
+        <Tab title="Subcard 3" backgroundColor="cd32fb"/>
+        <Tab title="Subcard 4" backgroundColor="cd32fb"/>
+        <Tab title="Subcard 5" backgroundColor="cd32fb"/>
+        <Tab title="Subcard 6" backgroundColor="cd32fb"/>
+        <Tab title="Subcard 7" backgroundColor="cd32fb"/>
+    </Card>
+    
+    <Card title="Card 9" backgroundColor="bd2721">
+        <Tab title="Subcard 1" backgroundColor="f3b66a"/>
+        <Tab title="Subcard 2" backgroundColor="f3b66a"/>
+        <Tab title="Subcard 3" backgroundColor="f3b66a"/>
+        <Tab title="Subcard 4" backgroundColor="f3b66a"/>
+        <Tab title="Subcard 5" backgroundColor="f3b66a"/>
+        <Tab title="Subcard 6" backgroundColor="f3b66a"/>
+        <Tab title="Subcard 7" backgroundColor="f3b66a"/>
+    </Card>
+    
+
+    <Card title="Card 10" backgroundColor="f3b66a">
+        <Tab title="Subcard 1" backgroundColor="4349e3"/>
+        <Tab title="Subcard 2" backgroundColor="4349e3"/>
+        <Tab title="Subcard 3" backgroundColor="4349e3"/>
+        <Tab title="Subcard 4" backgroundColor="4349e3"/>
+        <Tab title="Subcard 5" backgroundColor="4349e3"/>
+        <Tab title="Subcard 6" backgroundColor="4349e3"/>
+        <Tab title="Subcard 7" backgroundColor="4349e3"/>
+    </Card>
+    
+
+    <Card title="Card 11" backgroundColor="4349e3">
+        <Tab title="Subcard 1" backgroundColor="67c96c"/>
+        <Tab title="Subcard 2" backgroundColor="67c96c"/>
+        <Tab title="Subcard 3" backgroundColor="67c96c"/>
+        <Tab title="Subcard 4" backgroundColor="67c96c"/>
+        <Tab title="Subcard 5" backgroundColor="67c96c"/>
+        <Tab title="Subcard 6" backgroundColor="67c96c"/>
+        <Tab title="Subcard 7" backgroundColor="67c96c"/>
+    </Card>
+    
+
+    <Card title="Card 12" backgroundColor="67c96c">
+        <Tab title="Subcard 1" backgroundColor="cd32fb"/>
+        <Tab title="Subcard 2" backgroundColor="cd32fb"/>
+        <Tab title="Subcard 3" backgroundColor="cd32fb"/>
+        <Tab title="Subcard 4" backgroundColor="cd32fb"/>
+        <Tab title="Subcard 5" backgroundColor="cd32fb"/>
+        <Tab title="Subcard 6" backgroundColor="cd32fb"/>
+        <Tab title="Subcard 7" backgroundColor="cd32fb"/>
+    </Card>
+
+</Carousel>
