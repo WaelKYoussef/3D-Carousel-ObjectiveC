@@ -1,4 +1,4 @@
-# Project Name
+# 3D-Carousel-ObjectiveC
 
 This is a codebase that is no longer actively maintained. The source code is provided here for educational or experimentation purposes only.
 
